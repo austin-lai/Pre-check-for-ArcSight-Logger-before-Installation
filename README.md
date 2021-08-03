@@ -8,7 +8,7 @@
 
 Pre-check for ArcSight Logger before Installation
 
-**Note :** Script build on year 2019
+**Note :** Script build in 2019, but published today 😀
 
 - [Pre-check for ArcSight Logger before Installation](https://github.com/austin-lai/Pre-check-for-ArcSight-Logger-before-Installation/blob/master/pre-check-for-arcsight-logger-before-installation.sh)
 
