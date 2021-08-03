@@ -10,7 +10,7 @@ Pre-check for ArcSight Logger before Installation
 
 **Note :** Script build on year 2019
 
-- [Pre-check for ArcSight Logger before Installation](https://github.com/austin-lai/Simple-Auto-Connect-SSH-Expect-Script-without-Shell-Script-Hard-coded-variables/blob/master/auto-connect-ssh-expect.sh)
+- [Pre-check for ArcSight Logger before Installation](https://github.com/austin-lai/Pre-check-for-ArcSight-Logger-before-Installation/blob/master/pre-check-for-arcsight-logger-before-installation.sh)
 
 <!-- /Description -->
 
